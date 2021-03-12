@@ -18,7 +18,7 @@
 ## For more details, click to expand!
  
  <details>
-      <sumary> <b> My stats o GitHub </b> <i><(click to expand!)></i> </sumary>
+      <sumary> <b> ##My stats o GitHub </b> </sumary>
       
    <br>
       
