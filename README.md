@@ -5,12 +5,13 @@
 - 🔭 I’m currently working on Zup Innovation
 - 🌱 Currently learning Kotlin, Micronaut, Kafka, Kubernets and Docker
 - 🔭 Working with Java using Spring Boot and Kotlin using Micronaut and gRPC
+- 📫 Linkedin Profile: https://www.linkedin.com/in/rodrigo-braz-carneiro-b0b5061a8/
 - 😄 Some of my skills are:
       <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
-      <img src="	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flate&logo=docker&logoColor=white" />
 
       
       
@@ -31,6 +32,6 @@
 <!--
 **DigoB/DigoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 📫 Linkedin Profile: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 -->
