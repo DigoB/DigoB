@@ -3,8 +3,8 @@
 ## I'm a brazillian junior Java/Kotlin Back-End developer
 
 - 🔭 I’m currently working on Zup Innovation
-- 🌱 I’m currently learning Kotlin, Micronaut, Kafka, Kubernets and Docker
-- 🔭 I’m currently working on Java using Spring Boot and Kotlin using Micronaut and gRPC
+- 🌱 Currently learning Kotlin, Micronaut, Kafka, Kubernets and Docker
+- 🔭 Working with Java using Spring Boot and Kotlin using Micronaut and gRPC
 - 📫 Linkedin Profile: https://www.linkedin.com/in/rodrigo-braz-carneiro-b0b5061a8/
 - 😄 Some of my skills are:
       <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
