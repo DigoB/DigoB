@@ -16,13 +16,17 @@
       
       
 ## For more details, click to expand!
+<br>
  
  <details>
-      <sumary> <b> ##My stats o GitHub </b> </sumary>
+      <sumary> <b> My stats on GitHub </b> </sumary>
       
+   <br>
+   <br>
    <br>
       
    [![Rodrigo github stats](https://github-readme-stats-r4815ov66.vercel.app/api?username=DigoB&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   <br>
    <br>
    <br>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigoB&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
