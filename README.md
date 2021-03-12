@@ -7,7 +7,11 @@
 - 🔭 I’m currently working on Java using Spring Boot and Kotlin using Micronaut and gRPC
 - 📫 Linkedin Profile: https://www.linkedin.com/in/rodrigo-braz-carneiro-b0b5061a8/
 - 😄 Some of my skills are:
- <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
+ 
+ 
+ [![Rodrigo github stats](https://github-readme-stats-r4815ov66.vercel.app/api?username=DigoB&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigoB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DigoB/DigoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
