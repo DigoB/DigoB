@@ -9,10 +9,16 @@
 - 😄 Some of my skills are:
       <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
  
- 
+ <details>
+      <sumary> <b> My stats o GitHub </b> <i><(click to expand!)></i> </sumary>
+            <br>
+            <br>
  [![Rodrigo github stats](https://github-readme-stats-r4815ov66.vercel.app/api?username=DigoB&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  <br>
+ <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigoB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+            
+ </details>
 
 <!--
 **DigoB/DigoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
