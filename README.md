@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! I'm Rodrigo Braz, welcome to my profile! 👋
+
+## I'm a brazillian junior Java/Kotlin Back-End developer
+
+- 🔭 I’m currently working on Zup Innovation
+- 🌱 I’m currently learning Kotlin, Micronaut, Kafka, Kubernets and Docker
+- 🔭 I’m currently working on Java using Spring Boot and Kotlin using Micronaut and gRPC
+- 📫 Linkedin Profile: https://www.linkedin.com/in/rodrigo-braz-carneiro-b0b5061a8/
+- 
 
 <!--
 **DigoB/DigoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
