@@ -4,15 +4,13 @@
 
 - 🔭 Experience using Java with Spring Boot and Kotlin with Micronaut and gRPC
 - 🌱 Studiyng Front-end technologies as HTML, CSS, Bootstrap, Javascript and React
-- 📫 Linkedin Profile: <a href="https://www.linkedin.com/in/rodrigo-braz-carneiro")Click Here</a>
+- 📫 Linkedin Profile: https://www.linkedin.com/in/rodrigo-braz-carneiro
 - 😄 Some of my skills are:
       <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
       <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flate&logo=docker&logoColor=white" />
-
-      
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flate&logo=docker&logoColor=white" />      
       
 ## For more details, click to expand!
 <br>
