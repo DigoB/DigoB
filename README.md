@@ -1,10 +1,10 @@
 ### Hi there! I'm Rodrigo Braz, welcome to my profile! 👋
 
-## I'm a brazillian junior Java/Kotlin Back-End developer
+## I'm a brazillian junior software engineer, currently working at Act Digital
 
-- 🌱 Currently learning Kotlin, Micronaut, Kafka, Kubernets and Docker
-- 🔭 Working with Java using Spring Boot and Kotlin using Micronaut and gRPC
-- 📫 Linkedin Profile: https://www.linkedin.com/in/rodrigo-braz-carneiro-b0b5061a8/
+- 🔭 Experience using Java with Spring Boot and Kotlin with Micronaut and gRPC
+- 🌱 Studiyng Front-end technologies as HTML, CSS, Bootstrap, Javascript and React
+- 📫 Linkedin Profile: <a href="https://www.linkedin.com/in/rodrigo-braz-carneiro")Click Here</a>
 - 😄 Some of my skills are:
       <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
