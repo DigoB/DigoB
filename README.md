@@ -3,7 +3,7 @@
 ## I'm a brazillian junior software engineer, currently working at Act Digital
 
 - 🌱 Front-end technologies as HTML, CSS, Javascript and React
-- 🔭 Back End technologies as NodeJs, Express, Java, Spring Boot, Kotlin, Micronaut using REST and gRPC
+- 🔭 Back End technologies as NodeJs, Express, Java, Spring Boot, Micronaut using REST and gRPC
 - 📫 Linkedin Profile: https://www.linkedin.com/in/rodrigo-braz-carneiro
 <br> <br> <br>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigoB&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
