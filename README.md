@@ -1,8 +1,8 @@
 ### Hi there! I'm Rodrigo Braz, welcome to my profile! 👋
 
-## I'm a brazillian data analyst, currently looking for a relocation
+## I'm a brazillian QA Engineer, currently looking for a relocation
 
-- 🌱 Advanced skills in Excel and Power BI.
+- 🌱 Advanced skills in Cypress and Automation Tests.
 - 🔭 Other Technologies that I had a touch are Python, Java, Spring Boot, Micronaut using REST and gRPC
 - 📫 Linkedin Profile: https://www.linkedin.com/in/rodrigo-braz-carneiro
 <br> <br> <br>
